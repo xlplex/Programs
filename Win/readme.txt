@@ -1,0 +1,1 @@
+Autoruns.exeManage all Programs that start on Windows.Procmon.exeTaskmanager on Crack.OOSU10.exe +Optimizer-16.5.exeWindows Optimization Programs.

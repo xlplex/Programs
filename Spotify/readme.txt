@@ -1,0 +1,1 @@
+Install_New_theme.bat (yes it disables the ads)choose your options enjoy
