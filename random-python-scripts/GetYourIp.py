@@ -7,7 +7,7 @@ def get_public_ip():
     return ip
 
 # Define the Discord webhook URL
-WEBHOOK_URL = "https://discord.com/api/webhooks/1242577246372368537/X4f92t4yuOglwlwPvNrUIlHeQJuWx_LMn6HqxuFQqSkbm6SVaT1VgkVb0-LXSJhOR8Ri"
+WEBHOOK_URL = "WEBHOOK_HERE"
 
 # Get the public IP address
 public_ip = get_public_ip()
